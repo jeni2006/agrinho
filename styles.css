@@ -1,0 +1,9 @@
+body{background: -webkit-linear-gradient(left, #7ad9d9, #bddddd);
+    background: -moz-linear-gradient(left, #7ad9d9, #bddddd);
+    background: -ms-linear-gradient(left, #7ad9d9, #bddddd);
+    background: -o-linear-gradient(left, #7ad9d9, #bddddd);
+    background: linear-gradient(to right, #7ad9d9, #bddddd);
+    ;}
+body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
+body{text-align: center;}
+footer{text-align: left;}
